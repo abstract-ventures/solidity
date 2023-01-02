@@ -1,0 +1,9 @@
+{
+  "name": "@abstract-ventures/contracts",
+  "description": "Abstract Ventures smart contracts",
+  "license": "MIT",
+  "version": "0.0.1",
+  "files": [
+    "**/*.sol"
+  ]
+}
